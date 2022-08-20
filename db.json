@@ -1,0 +1,27 @@
+{
+    "scores": 
+    {
+        "scores":   [
+      {
+        "user_id": "Juan P",
+        "score": 29
+      },
+      {
+        "user_id":"Ramiro",
+        "score": 15
+      },
+      {
+        "user_id":"Clauida",
+        "score": 11
+      },
+      {
+        "user_id":"Felipe",
+        "score": 8
+      },
+      {
+        "user_id":"Marian",
+        "score": 5
+      }
+        ] 
+    }
+  }
